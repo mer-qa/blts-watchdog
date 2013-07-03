@@ -1,10 +1,10 @@
 Summary: BLTS Watchdog test set
 Name: blts-watchdog-tests
-Version: 0.0.14
+Version: 0.0.15
 Release: 1
 License: GPLv2
 Group: Development/Testing
-URL: https://github.com/mer-packages/mcts-blts
+URL: https://github.com/mer-qa/blts-watchdog
 Source0: %{name}-%{version}.tar.gz
 BuildRequires: libbltscommon-devel
 Requires: blts-tools
